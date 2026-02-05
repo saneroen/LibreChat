@@ -312,6 +312,8 @@ endpoints:
   #     models:
   #       claude-opus-4.5:
   #         deploymentName: claude-opus-4-5@20251101
+  #       claude-opus-4.6:
+  #         deploymentName: claude-opus-4-6@default
   #       claude-sonnet-4:
   #         deploymentName: claude-sonnet-4-20250514
   #       claude-3.7-sonnet:
